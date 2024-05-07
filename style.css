@@ -1,8 +1,22 @@
+h3 {
+ position: absolute;
+ margin: 0;
+}
+
 ul {
   list-style-type: none;
   float: right;
+  margin: 0;
 }
 
 li {
   display: inline;
+}
+
+footer {
+ position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
 }
